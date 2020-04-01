@@ -6,11 +6,11 @@ using UnityEngine;
 public class ACData
 {
     public string name;
-    public string image;
 }
 
+
 [System.Serializable]
-public class ACFishData : ACData
+public class ACDexItemData : ACData
 {
     public int sellPrice;
     public string time;
@@ -20,10 +20,38 @@ public class ACFishData : ACData
 
 }
 
+[System.Serializable]
+public class ACFishData : ACDexItemData
+{
+    public string shadow;
+
+}
+
+
+[System.Serializable]
+public class ACBugData : ACDexItemData
+{
+
+}
+
 
 [System.Serializable]
 public class ACDex
 {
     public Dictionary<string, ACFishData> fish = new Dictionary<string, ACFishData>();
+    public Dictionary<string, ACBugData> bug = new Dictionary<string, ACBugData>();
+    public Dictionary<string, ACAnimalData> animal = new Dictionary<string, ACAnimalData>();
+}
+
+public class ACAnimalData : ACData
+{
+    public string sex;
+    public string personality;
+    public string specie;
+    public string birthday;
+    public string catchprase;
+
+
+
 }
 

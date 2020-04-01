@@ -3,35 +3,33 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIFish : MonoBehaviour
+public class UIFish : UIDexItem
 {
-    Main main;
+    public Text shadowText;
 
-    public Image icon;
-    public Text nameText;
-    public Text locationText;
-    public Text timeText;
-
-
-    public void Init(Main main, ACFishData data)
+    public override void Init(string id, ACDexItemData oriData)
     {
-        this.main = main;
-        string name;
-        if (main.localization.TryGetValue(data.name, out name) == false)
-        {
-            name = data.name;
-        }
+        this.data = oriData;
 
-        nameText.text = name;
+        ACFishData data = (ACFishData)oriData;
+        nameText.text = data.name;
 
         locationText.text = data.location;
 
         timeText.text = data.time;
 
+        shadowText.text = data.shadow;
+
+
         Sprite sprite = null;
-        if (ImageLoader.Instance.TryGetImage(data.name, out sprite))
+        if (ImageLoader.Instance.TryGetImage(id, out sprite))
         {
             icon.sprite = sprite;
         }
+
+        ChangeGeoMode(Main.Instance.GeoMode);
     }
+
+
+
 }

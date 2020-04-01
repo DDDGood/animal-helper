@@ -2,21 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ImageLoader : MonoBehaviour
+public class ImageLoader
 {
     static ImageLoader _instance;
     public static ImageLoader Instance
     {
         get
         {
+            if (_instance == null)
+                _instance = new ImageLoader();
+
             return _instance;
         }
     }
 
     Dictionary<string, Sprite> images;
-    void Awake()
+    public ImageLoader()
     {
-        _instance = this;
+        Init();
     }
 
     // Start is called before the first frame update
@@ -24,11 +27,11 @@ public class ImageLoader : MonoBehaviour
     {
         images = new Dictionary<string, Sprite>();
 
-        Sprite[] texResources = Resources.LoadAll<Sprite>("Icon");
-        foreach (Sprite tex in texResources)
+        Sprite[] sprites = Resources.LoadAll<Sprite>("Icon");
+        foreach (Sprite sprite in sprites)
         {
-            Debug.Log(tex.name);
-            images[tex.name] = tex;
+            Debug.Log(sprite.name);
+            images[sprite.name] = sprite;
         }
     }
 
