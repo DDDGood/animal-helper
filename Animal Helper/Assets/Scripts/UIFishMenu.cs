@@ -45,7 +45,7 @@ public class UIFishMenu : UIDexMenu
 
         foreach (KeyValuePair<string, ACFishData> fishData in Dex.fish)
         {
-            int[] monthsData = Main.Instance.GeoMode == GeographyMode.NORTH ? fishData.Value.monthsNorth : fishData.Value.monthsSouth;
+            int[] monthsData = MainCollect.Instance.GeoMode == GeographyMode.NORTH ? fishData.Value.monthsNorth : fishData.Value.monthsSouth;
 
             if (monthsData[index] == 1)
             {

@@ -1,0 +1,3178 @@
+{
+    "cyrano": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "食蟻獸",
+        "birthday": "3月9日",
+        "catchprase": "有的",
+        "name": "陽明"
+    },
+    "antonio": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "食蟻獸",
+        "birthday": "10月20日",
+        "catchprase": "真誠",
+        "name": "阿誠"
+    },
+    "snooty": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "食蟻獸",
+        "birthday": "10月24日",
+        "catchprase": "麻煩了",
+        "name": "貴妃"
+    },
+    "piper": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鳥",
+        "birthday": "4月18日",
+        "catchprase": "山雀",
+        "name": "麗婷"
+    },
+    "charlise": {
+        "sex": "female",
+        "personality": "元氣、大姐姐",
+        "specie": "大熊",
+        "birthday": "4月17日",
+        "catchprase": "唷咻",
+        "name": "恰咪"
+    },
+    "curt": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "大熊",
+        "birthday": "7月1日",
+        "catchprase": "嗯唔",
+        "name": "鐵熊"
+    },
+    "robin": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鳥",
+        "birthday": "12月4日",
+        "catchprase": "喳",
+        "name": "喳喳"
+    },
+    "ursala": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "大熊",
+        "birthday": "1月16日",
+        "catchprase": "呀吶",
+        "name": "妮雅"
+    },
+    "annalisa": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "食蟻獸",
+        "birthday": "2月6日",
+        "catchprase": "優雅",
+        "name": "小雅"
+    },
+    "admiral": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "鳥",
+        "birthday": "1月27日",
+        "catchprase": "貫徹",
+        "name": "李徹"
+    },
+    "beardo": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "大熊",
+        "birthday": "9月27日",
+        "catchprase": "咳咳",
+        "name": "熊大叔"
+    },
+    "chow": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "大熊",
+        "birthday": "7月22日",
+        "catchprase": "",
+        "name": "朝陽"
+    },
+    "anchovy": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鳥",
+        "birthday": "3月4日",
+        "catchprase": "如斯",
+        "name": "鳳尾"
+    },
+    "grizzly": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "大熊",
+        "birthday": "7月31日",
+        "catchprase": "",
+        "name": "穆穆"
+    },
+    "olaf": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "食蟻獸",
+        "birthday": "5月19日",
+        "catchprase": "歐啦",
+        "name": "安東尼"
+    },
+    "midge": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鳥",
+        "birthday": "3月12日",
+        "catchprase": "臉紅",
+        "name": "小酒窩"
+    },
+    "klaus": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "大熊",
+        "birthday": "3月31日",
+        "catchprase": "over",
+        "name": "熊戰士"
+    },
+    "nate": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "大熊",
+        "birthday": "8月16日",
+        "catchprase": "嗯是",
+        "name": "巴克思"
+    },
+    "pango": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "食蟻獸",
+        "birthday": "11月9日",
+        "catchprase": "希希",
+        "name": "佩希"
+    },
+    "twiggy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鳥",
+        "birthday": "7月13日",
+        "catchprase": "嘰嘰",
+        "name": "嘰嘰"
+    },
+    "paula": {
+        "sex": "female",
+        "personality": "元氣、大姐姐",
+        "specie": "大熊",
+        "birthday": "3月22日",
+        "catchprase": "耶呼",
+        "name": "瑞秋"
+    },
+    "teddy": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "大熊",
+        "birthday": "7月14日",
+        "catchprase": "太好了",
+        "name": "太平"
+    },
+    "jakey": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鳥",
+        "birthday": "8月24日",
+        "catchprase": "話說",
+        "name": "余板"
+    },
+    "megan": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "大熊",
+        "birthday": "3月13日",
+        "catchprase": "舔舔",
+        "name": "糖果"
+    },
+    "groucho": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "大熊",
+        "birthday": "10月23日",
+        "catchprase": "",
+        "name": "爪爪"
+    },
+    "anabelle": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "食蟻獸",
+        "birthday": "2月16日",
+        "catchprase": "真的假的",
+        "name": "有美"
+    },
+    "jitters": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鳥",
+        "birthday": "2月2日",
+        "catchprase": "諾諾",
+        "name": "紀諾"
+    },
+    "ike": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "大熊",
+        "birthday": "5月16日",
+        "catchprase": "施主",
+        "name": "大功"
+    },
+    "pinky": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "大熊",
+        "birthday": "9月9日",
+        "catchprase": "哇哦",
+        "name": "丹丹"
+    },
+    "jay": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鳥",
+        "birthday": "7月17日",
+        "catchprase": "呢喃",
+        "name": "阿燕"
+    },
+    "tutu": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "大熊",
+        "birthday": "9月15日",
+        "catchprase": "加油",
+        "name": "戀戀"
+    },
+    "rodeo": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "牛",
+        "birthday": "10月29日",
+        "catchprase": "了不起",
+        "name": "羅迪歐"
+    },
+    "lolly": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "貓",
+        "birthday": "3月27日",
+        "catchprase": "娜個",
+        "name": "檸檬娜"
+    },
+    "kabuki": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "貓",
+        "birthday": "11月29日",
+        "catchprase": "咦唷",
+        "name": "戈伍紀"
+    },
+    "bob": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "貓",
+        "birthday": "1月1日",
+        "catchprase": "貓貓",
+        "name": "阿判"
+    },
+    "jacques": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鳥",
+        "birthday": "6月22日",
+        "catchprase": "唷唷唷",
+        "name": "趙奇"
+    },
+    "kitty": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "貓",
+        "birthday": "2月15日",
+        "catchprase": "古古",
+        "name": "朱古莉"
+    },
+    "tangy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "貓",
+        "birthday": "6月17日",
+        "catchprase": "蜜柑",
+        "name": "純純"
+    },
+    "stu": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "牛",
+        "birthday": "4月20日",
+        "catchprase": "奔馳",
+        "name": "毛樂時"
+    },
+    "ankha": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "貓",
+        "birthday": "9月22日",
+        "catchprase": "尼羅",
+        "name": "艷後"
+    },
+    "kidcat": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "貓",
+        "birthday": "8月1日",
+        "catchprase": "喝",
+        "name": "阿一"
+    },
+    "mitzi": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "貓",
+        "birthday": "9月25日",
+        "catchprase": "喵",
+        "name": "圓圓"
+    },
+    "peck": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鳥",
+        "birthday": "7月25日",
+        "catchprase": "噗噗",
+        "name": "文雄"
+    },
+    "tom": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "貓",
+        "birthday": "12月10日",
+        "catchprase": "切",
+        "name": "阿邦"
+    },
+    "punchy": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "貓",
+        "birthday": "4月11日",
+        "catchprase": "晃晃",
+        "name": "爾光"
+    },
+    "t-bone": {
+        "sex": "male",
+        "personality": "悠閑、暴躁",
+        "specie": "牛",
+        "birthday": "5月20日",
+        "catchprase": "",
+        "name": "羅宋"
+    },
+    "monique": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "貓",
+        "birthday": "9月30日",
+        "catchprase": "嗯哼",
+        "name": "珍珍"
+    },
+    "rosie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "貓",
+        "birthday": "2月27日",
+        "catchprase": "看看",
+        "name": "彭花"
+    },
+    "sparro": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鳥",
+        "birthday": "11月20日",
+        "catchprase": "啁啁",
+        "name": "周之翔"
+    },
+    "merry": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "貓",
+        "birthday": "6月29日",
+        "catchprase": "喵嗯",
+        "name": "莎莎"
+    },
+    "purrl": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "貓",
+        "birthday": "5月29日",
+        "catchprase": "嗯嗯",
+        "name": "小玉"
+    },
+    "coach": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "牛",
+        "birthday": "4月29日",
+        "catchprase": "胡渣",
+        "name": "大常"
+    },
+    "tabby": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "貓",
+        "birthday": "8月13日",
+        "catchprase": "喵吼",
+        "name": "小虎"
+    },
+    "olivia": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "貓",
+        "birthday": "2月3日",
+        "catchprase": "什麼",
+        "name": "奧莉"
+    },
+    "angus": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "牛",
+        "birthday": "4月30日",
+        "catchprase": "",
+        "name": "施萬德"
+    },
+    "felicity": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "貓",
+        "birthday": "3月30日",
+        "catchprase": "哪",
+        "name": "美佳"
+    },
+    "moe": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "貓",
+        "birthday": "1月12日",
+        "catchprase": "吶",
+        "name": "仁平"
+    },
+    "vic": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "牛",
+        "birthday": "12月29日",
+        "catchprase": "哞",
+        "name": "盧爾曼"
+    },
+    "lucha": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鳥",
+        "birthday": "12月12日",
+        "catchprase": "嘎",
+        "name": "摔角鴉"
+    },
+    "stinky": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "貓",
+        "birthday": "8月17日",
+        "catchprase": "打啊",
+        "name": "男子汗"
+    },
+    "kiki": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "貓",
+        "birthday": "10月8日",
+        "catchprase": "醬醬",
+        "name": "余子醬"
+    },
+    "kody": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "小熊",
+        "birthday": "9月28日",
+        "catchprase": "精神",
+        "name": "艾德豪"
+    },
+    "benedict": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "雞",
+        "birthday": "10月10日",
+        "catchprase": "好棒",
+        "name": "沛希"
+    },
+    "cheri": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "小熊",
+        "birthday": "3月17日",
+        "catchprase": "開玩笑的",
+        "name": "櫻桃"
+    },
+    "bluebear": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "小熊",
+        "birthday": "6月24日",
+        "catchprase": "怦怦",
+        "name": "娃娃"
+    },
+    "knox": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "雞",
+        "birthday": "11月23日",
+        "catchprase": "",
+        "name": "金閣"
+    },
+    "tammy": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "小熊",
+        "birthday": "6月23日",
+        "catchprase": "竟然說",
+        "name": "然姐"
+    },
+    "stitches": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "小熊",
+        "birthday": "2月10日",
+        "catchprase": "玩玩",
+        "name": "玩具熊"
+    },
+    "egbert": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "雞",
+        "birthday": "10月14日",
+        "catchprase": "很優",
+        "name": "黃金雞"
+    },
+    "june": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "小熊",
+        "birthday": "5月21日",
+        "catchprase": "有耶",
+        "name": "阿妹"
+    },
+    "maple": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "小熊",
+        "birthday": "6月15日",
+        "catchprase": "熊仔",
+        "name": "小楓"
+    },
+    "broffina": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "雞",
+        "birthday": "10月24日",
+        "catchprase": "咯咯",
+        "name": "凱西"
+    },
+    "marty": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "小熊",
+        "birthday": "4月16日",
+        "catchprase": "",
+        "name": "瑪丁"
+    },
+    "vladimir": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "小熊",
+        "birthday": "8月2日",
+        "catchprase": "",
+        "name": "嘉弼"
+    },
+    "rudy": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "貓",
+        "birthday": "12月20日",
+        "catchprase": "之類的",
+        "name": "茶茶"
+    },
+    "ava": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "雞",
+        "birthday": "4月28日",
+        "catchprase": "是唷",
+        "name": "陶米咕"
+    },
+    "pekoe": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "小熊",
+        "birthday": "5月18日",
+        "catchprase": "佳佳",
+        "name": "佳敏"
+    },
+    "poncho": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "小熊",
+        "birthday": "1月2日",
+        "catchprase": "萌",
+        "name": "蓬蓬"
+    },
+    "ken": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "雞",
+        "birthday": "12月23日",
+        "catchprase": "骨雞",
+        "name": "烏骨雞"
+    },
+    "judy": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "小熊",
+        "birthday": "3月10日",
+        "catchprase": "哎呀",
+        "name": "美玲"
+    },
+    "murphy": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "小熊",
+        "birthday": "12月29日",
+        "catchprase": "",
+        "name": "憲雄"
+    },
+    "katt": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "貓",
+        "birthday": "4月27日",
+        "catchprase": "掰掰",
+        "name": "巧巧"
+    },
+    "becky": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "雞",
+        "birthday": "12月9日",
+        "catchprase": "哈雷路亞",
+        "name": "詠旋"
+    },
+    "chester": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "小熊",
+        "birthday": "8月6日",
+        "catchprase": "竹子",
+        "name": "胖達"
+    },
+    "pudge": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "小熊",
+        "birthday": "6月11日",
+        "catchprase": "真是的",
+        "name": "阿欽"
+    },
+    "patty": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "奶牛",
+        "birthday": "5月10日",
+        "catchprase": "牟",
+        "name": "阿排"
+    },
+    "goose": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "雞",
+        "birthday": "10月4日",
+        "catchprase": "咕咕",
+        "name": "肯肯"
+    },
+    "olive": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "小熊",
+        "birthday": "7月12日",
+        "catchprase": "馬克杯",
+        "name": "畢克蘿"
+    },
+    "raymond": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "貓",
+        "birthday": "10月1日",
+        "catchprase": "嚴肅",
+        "name": "傑克"
+    },
+    "plucky": {
+        "sex": "female",
+        "personality": "元氣、大姐姐",
+        "specie": "雞",
+        "birthday": "10月12日",
+        "catchprase": "泰泰",
+        "name": "帕塔雅"
+    },
+    "barold": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "小熊",
+        "birthday": "3月2日",
+        "catchprase": "算了",
+        "name": "阿西"
+    },
+    "drago": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鱷魚",
+        "birthday": "2月12日",
+        "catchprase": "然後",
+        "name": "阿龍"
+    },
+    "tipper": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "奶牛",
+        "birthday": "8月25日",
+        "catchprase": "",
+        "name": "牧牧"
+    },
+    "lucky": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "11月4日",
+        "catchprase": "大概",
+        "name": "大吉"
+    },
+    "deirdre": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "鹿",
+        "birthday": "5月4日",
+        "catchprase": "隨便啦",
+        "name": "娣雅"
+    },
+    "boots": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鱷魚",
+        "birthday": "8月7日",
+        "catchprase": "跳",
+        "name": "豐年"
+    },
+    "daisy": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "狗",
+        "birthday": "11月16日",
+        "catchprase": "對不對",
+        "name": "香草"
+    },
+    "erik": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鹿",
+        "birthday": "7月27日",
+        "catchprase": "鹿鹿",
+        "name": "查克"
+    },
+    "fauna": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鹿",
+        "birthday": "3月26日",
+        "catchprase": "小鹿",
+        "name": "音音"
+    },
+    "norma": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "奶牛",
+        "birthday": "9月20日",
+        "catchprase": "微笑",
+        "name": "晨曦"
+    },
+    "biskit": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "5月13日",
+        "catchprase": "狗狗",
+        "name": "羅賓"
+    },
+    "lopez": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鹿",
+        "birthday": "8月20日",
+        "catchprase": "變了",
+        "name": "湯姆"
+    },
+    "del": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "鱷魚",
+        "birthday": "5月27日",
+        "catchprase": "噗咻",
+        "name": "大和"
+    },
+    "chelsea": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鹿",
+        "birthday": "1月18日",
+        "catchprase": "",
+        "name": "雀兒喜"
+    },
+    "bam": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鹿",
+        "birthday": "11月7日",
+        "catchprase": "梅花",
+        "name": "小健"
+    },
+    "naomi": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "奶牛",
+        "birthday": "2月28日",
+        "catchprase": "",
+        "name": "玉蘭"
+    },
+    "bones": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "8月4日",
+        "catchprase": "對吧",
+        "name": "阿富"
+    },
+    "fuchsia": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "鹿",
+        "birthday": "9月19日",
+        "catchprase": "西卡",
+        "name": "潔西卡"
+    },
+    "sly": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鱷魚",
+        "birthday": "11月15日",
+        "catchprase": "唰唰",
+        "name": "海德"
+    },
+    "goldie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "狗",
+        "birthday": "12月27日",
+        "catchprase": "汪",
+        "name": "牛奶糖"
+    },
+    "zell": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鹿",
+        "birthday": "6月7日",
+        "catchprase": "鹿營",
+        "name": "森森"
+    },
+    "alfonso": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鱷魚",
+        "birthday": "6月9日",
+        "catchprase": "鱷泥",
+        "name": "阿泥"
+    },
+    "portia": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "狗",
+        "birthday": "10月25日",
+        "catchprase": "屋屋",
+        "name": "傅蘭"
+    },
+    "beau": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鹿",
+        "birthday": "4月5日",
+        "catchprase": "怎麼辦",
+        "name": "彼得"
+    },
+    "gayle": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鱷魚",
+        "birthday": "5月17日",
+        "catchprase": "鱷莉",
+        "name": "愛莉"
+    },
+    "butch": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "狗",
+        "birthday": "11月1日",
+        "catchprase": "儂",
+        "name": "約翰"
+    },
+    "bruce": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "鹿",
+        "birthday": "5月26日",
+        "catchprase": "福鹿壽",
+        "name": "布鹿斯"
+    },
+    "alli": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鱷魚",
+        "birthday": "11月8日",
+        "catchprase": "鱷魚皮",
+        "name": "鱷羅思"
+    },
+    "walker": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "6月10日",
+        "catchprase": "咆",
+        "name": "阿笨"
+    },
+    "diana": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鹿",
+        "birthday": "1月4日",
+        "catchprase": "是吧",
+        "name": "倪家莉"
+    },
+    "deena": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鴨",
+        "birthday": "6月27日",
+        "catchprase": "球球",
+        "name": "球藻"
+    },
+    "mac": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "狗",
+        "birthday": "11月11日",
+        "catchprase": "摘",
+        "name": "金牌"
+    },
+    "dizzy": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "象",
+        "birthday": "7月14日",
+        "catchprase": "象象",
+        "name": "巨巨"
+    },
+    "drake": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鴨",
+        "birthday": "6月25日",
+        "catchprase": "或許鴨",
+        "name": "肥肝"
+    },
+    "bill": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鴨",
+        "birthday": "2月1日",
+        "catchprase": "蛋是啊",
+        "name": "皮蛋"
+    },
+    "gloria": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴨",
+        "birthday": "8月12日",
+        "catchprase": "相反",
+        "name": "素返真"
+    },
+    "pompom": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鴨",
+        "birthday": "2月11日",
+        "catchprase": "裴裴",
+        "name": "海苔裴"
+    },
+    "marcel": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "12月31日",
+        "catchprase": "什麼字",
+        "name": "文字燒"
+    },
+    "bigtop": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "象",
+        "birthday": "10月3日",
+        "catchprase": "哈啊",
+        "name": "阿三"
+    },
+    "scoot": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鴨",
+        "birthday": "6月13日",
+        "catchprase": "呱呱",
+        "name": "阿守"
+    },
+    "joey": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鴨",
+        "birthday": "1月3日",
+        "catchprase": "鴨鴨",
+        "name": "李察"
+    },
+    "cookie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "狗",
+        "birthday": "6月18日",
+        "catchprase": "琳琳",
+        "name": "珮琳"
+    },
+    "molly": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鴨",
+        "birthday": "3月7日",
+        "catchprase": "說不定鴨",
+        "name": "亞美"
+    },
+    "mallary": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴨",
+        "birthday": "11月17日",
+        "catchprase": "八十八",
+        "name": "蘇米"
+    },
+    "benjamin": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "狗",
+        "birthday": "8月3日",
+        "catchprase": "那麼那麼",
+        "name": "小八"
+    },
+    "eloise": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "象",
+        "birthday": "12月8日",
+        "catchprase": "魯魯",
+        "name": "艾勒芬"
+    },
+    "weber": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鴨",
+        "birthday": "6月30日",
+        "catchprase": "唧唧",
+        "name": "卿德"
+    },
+    "pate": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鴨",
+        "birthday": "2月23日",
+        "catchprase": "嗚嗚",
+        "name": "愛哭鬼"
+    },
+    "maddie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "狗",
+        "birthday": "1月11日",
+        "catchprase": "一二",
+        "name": "麻蓉"
+    },
+    "quillson": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鴨",
+        "birthday": "12月22日",
+        "catchprase": "說真的",
+        "name": "何童"
+    },
+    "freckles": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鴨",
+        "birthday": "2月19日",
+        "catchprase": "魚魚",
+        "name": "小鮪"
+    },
+    "cherry": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "狗",
+        "birthday": "5月11日",
+        "catchprase": "聽說娜",
+        "name": "花娜"
+    },
+    "margie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "象",
+        "birthday": "1月28日",
+        "catchprase": "莎啦啦",
+        "name": "莎莉"
+    },
+    "miranda": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴨",
+        "birthday": "4月23日",
+        "catchprase": "怎麼回事",
+        "name": "米蘭達"
+    },
+    "maelle": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴨",
+        "birthday": "4月8日",
+        "catchprase": "嘆",
+        "name": "安妮"
+    },
+    "bea": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "狗",
+        "birthday": "10月15日",
+        "catchprase": "賓果",
+        "name": "貝果"
+    },
+    "opal": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "象",
+        "birthday": "1月20日",
+        "catchprase": "勇",
+        "name": "露露"
+    },
+    "derwin": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鴨",
+        "birthday": "5月25日",
+        "catchprase": "喂！媽媽",
+        "name": "阿坊"
+    },
+    "shep": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "狗",
+        "birthday": "11月24日",
+        "catchprase": "汪想想",
+        "name": "包伯"
+    },
+    "ketchup": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鴨",
+        "birthday": "7月27日",
+        "catchprase": "噗吱",
+        "name": "番茄醬"
+    },
+    "jeremiah": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "青蛙",
+        "birthday": "7月8日",
+        "catchprase": "嚼嚼",
+        "name": "阿刻"
+    },
+    "chai": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "象",
+        "birthday": "3月6日",
+        "catchprase": "",
+        "name": "啡卡"
+    },
+    "gruff": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "山羊",
+        "birthday": "8月29日",
+        "catchprase": "",
+        "name": "比利"
+    },
+    "jambette": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "青蛙",
+        "birthday": "10月27日",
+        "catchprase": "是蛙",
+        "name": "翡翠"
+    },
+    "camofrog": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "青蛙",
+        "birthday": "6月5日",
+        "catchprase": "喂",
+        "name": "迷仔"
+    },
+    "axel": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "象",
+        "birthday": "3月23日",
+        "catchprase": "嘻嘻",
+        "name": "大大"
+    },
+    "henry": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "青蛙",
+        "birthday": "9月21日",
+        "catchprase": "滴咕",
+        "name": "亨利"
+    },
+    "tad": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "青蛙",
+        "birthday": "8月3日",
+        "catchprase": "蝌蚪",
+        "name": "阿田"
+    },
+    "cyd": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "象",
+        "birthday": "6月9日",
+        "catchprase": "搖滾",
+        "name": "龐克斯"
+    },
+    "raddle": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "青蛙",
+        "birthday": "6月6日",
+        "catchprase": "哈啾",
+        "name": "嘉俊"
+    },
+    "drift": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "青蛙",
+        "birthday": "10月9日",
+        "catchprase": "聒聒",
+        "name": "毒仔"
+    },
+    "ellie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "象",
+        "birthday": "5月12日",
+        "catchprase": "啦啷",
+        "name": "泡芙"
+    },
+    "chevre": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "山羊",
+        "birthday": "3月6日",
+        "catchprase": "唄",
+        "name": "雪兒"
+    },
+    "cousteau": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "青蛙",
+        "birthday": "12月17日",
+        "catchprase": "不客氣",
+        "name": "春捲"
+    },
+    "lily": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "青蛙",
+        "birthday": "2月4日",
+        "catchprase": "雨雨",
+        "name": "雷妮"
+    },
+    "gigi": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "青蛙",
+        "birthday": "8月11日",
+        "catchprase": "寶貝",
+        "name": "林妲"
+    },
+    "wartjr": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "青蛙",
+        "birthday": "8月21日",
+        "catchprase": "山山",
+        "name": "山姆"
+    },
+    "tucker": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "象",
+        "birthday": "9月7日",
+        "catchprase": "毛毛",
+        "name": "阿原"
+    },
+    "nan": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "山羊",
+        "birthday": "8月24日",
+        "catchprase": "書",
+        "name": "墨墨"
+    },
+    "huck": {
+        "sex": "male",
+        "personality": "悠閑、自戀",
+        "specie": "青蛙",
+        "birthday": "7月9日",
+        "catchprase": "喝喝",
+        "name": "吸管"
+    },
+    "ribbot": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "青蛙",
+        "birthday": "2月13日",
+        "catchprase": "機器",
+        "name": "鏘鏘"
+    },
+    "croque": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "青蛙",
+        "birthday": "7月18日",
+        "catchprase": "子曰",
+        "name": "太子"
+    },
+    "puddles": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "青蛙",
+        "birthday": "1月13日",
+        "catchprase": "石頭",
+        "name": "剪刀"
+    },
+    "tia": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "象",
+        "birthday": "11月18日",
+        "catchprase": "呼",
+        "name": "茉莉"
+    },
+    "billy": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "山羊",
+        "birthday": "3月25日",
+        "catchprase": "唷喏",
+        "name": "亞星"
+    },
+    "prince": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "青蛙",
+        "birthday": "7月21日",
+        "catchprase": "是的",
+        "name": "青呱"
+    },
+    "frobert": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "青蛙",
+        "birthday": "2月8日",
+        "catchprase": "咕嚕",
+        "name": "江適"
+    },
+    "paolo": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "象",
+        "birthday": "5月5日",
+        "catchprase": "保羅",
+        "name": "保羅"
+    },
+    "diva": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "青蛙",
+        "birthday": "10月2日",
+        "catchprase": "蛤",
+        "name": "小睫"
+    },
+    "rodney": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "倉鼠",
+        "birthday": "11月10日",
+        "catchprase": "咻咻",
+        "name": "米米"
+    },
+    "boyd": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "猩猩",
+        "birthday": "10月1日",
+        "catchprase": "喔喔",
+        "name": "空空"
+    },
+    "rocco": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "河馬",
+        "birthday": "8月18日",
+        "catchprase": "覺得是啦",
+        "name": "孔在來"
+    },
+    "rilla": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "猩猩",
+        "birthday": "11月1日",
+        "catchprase": "",
+        "name": "莉拉"
+    },
+    "cesar": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "猩猩",
+        "birthday": "9月6日",
+        "catchprase": "拍胸脯",
+        "name": "阿朗"
+    },
+    "harry": {
+        "sex": "male",
+        "personality": "運動、暴躁",
+        "specie": "河馬",
+        "birthday": "1月7日",
+        "catchprase": "世世",
+        "name": "歐世豪"
+    },
+    "soleil": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "倉鼠",
+        "birthday": "8月9日",
+        "catchprase": "相信我",
+        "name": "安安"
+    },
+    "violet": {
+        "sex": "female",
+        "personality": "元氣、成熟",
+        "specie": "猩猩",
+        "birthday": "9月1日",
+        "catchprase": "唉呀",
+        "name": "吳紫眉"
+    },
+    "velma": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "山羊",
+        "birthday": "1月14日",
+        "catchprase": "起立",
+        "name": "班長"
+    },
+    "bubbles": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "河馬",
+        "birthday": "9月18日",
+        "catchprase": "是是",
+        "name": "曹珂"
+    },
+    "hamlet": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "倉鼠",
+        "birthday": "5月30日",
+        "catchprase": "火腿",
+        "name": "哈姆"
+    },
+    "peewee": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "猩猩",
+        "birthday": "9月11日",
+        "catchprase": "高高",
+        "name": "啞鈴"
+    },
+    "hippeux": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "河馬",
+        "birthday": "10月15日",
+        "catchprase": "Yes",
+        "name": "戴維"
+    },
+    "clay": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "倉鼠",
+        "birthday": "10月19日",
+        "catchprase": "忐忑不安",
+        "name": "子墨"
+    },
+    "al": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "猩猩",
+        "birthday": "10月18日",
+        "catchprase": "嗚呼",
+        "name": "阿保"
+    },
+    "kidd": {
+        "sex": "male",
+        "personality": "悠閑、自戀",
+        "specie": "山羊",
+        "birthday": "6月28日",
+        "catchprase": "啊",
+        "name": "文青"
+    },
+    "bertha": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "河馬",
+        "birthday": "4月25日",
+        "catchprase": "沒錯",
+        "name": "豆沙"
+    },
+    "apple": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "倉鼠",
+        "birthday": "9月24日",
+        "catchprase": "轉轉",
+        "name": "蘋果"
+    },
+    "boone": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "猩猩",
+        "birthday": "9月12日",
+        "catchprase": "這傢伙",
+        "name": "萬泰"
+    },
+    "buck": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "馬",
+        "birthday": "4月4日",
+        "catchprase": "搞笑",
+        "name": "威亞"
+    },
+    "flurry": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "倉鼠",
+        "birthday": "1月30日",
+        "catchprase": "對啊",
+        "name": "雪美"
+    },
+    "rocket": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "猩猩",
+        "birthday": "4月14日",
+        "catchprase": "煞啊",
+        "name": "阿四"
+    },
+    "pashmina": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "山羊",
+        "birthday": "12月26日",
+        "catchprase": "或許芭",
+        "name": "芭芭拉"
+    },
+    "biff": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "河馬",
+        "birthday": "3月29日",
+        "catchprase": "因為",
+        "name": "賈寶為"
+    },
+    "graham": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "倉鼠",
+        "birthday": "6月20日",
+        "catchprase": "就是這樣",
+        "name": "麥麥"
+    },
+    "louie": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "猩猩",
+        "birthday": "3月26日",
+        "catchprase": "鋼鋼",
+        "name": "壯壯"
+    },
+    "hamphrey": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "倉鼠",
+        "birthday": "2月25日",
+        "catchprase": "怒",
+        "name": "小倉"
+    },
+    "hans": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "猩猩",
+        "birthday": "12月5日",
+        "catchprase": "同意",
+        "name": "史奈魯"
+    },
+    "sherb": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "山羊",
+        "birthday": "1月18日",
+        "catchprase": "輕飄",
+        "name": "雷姆"
+    },
+    "bitty": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "河馬",
+        "birthday": "10月6日",
+        "catchprase": "嗶嗶",
+        "name": "艾咪"
+    },
+    "ozzie": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "無尾熊",
+        "birthday": "5月7日",
+        "catchprase": "顆顆",
+        "name": "阿慄"
+    },
+    "colton": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "馬",
+        "birthday": "5月22日",
+        "catchprase": "請看",
+        "name": "安索尼"
+    },
+    "savannah": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "馬",
+        "birthday": "1月25日",
+        "catchprase": "說到",
+        "name": "草斑娜"
+    },
+    "mathilda": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "袋鼠",
+        "birthday": "11月12日",
+        "catchprase": "嘿",
+        "name": "亞莎"
+    },
+    "alice": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "無尾熊",
+        "birthday": "8月19日",
+        "catchprase": "晶亮kira",
+        "name": "莫兒"
+    },
+    "cleo": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "馬",
+        "birthday": "2月9日",
+        "catchprase": "",
+        "name": "小鈾"
+    },
+    "canberra": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "無尾熊",
+        "birthday": "5月14日",
+        "catchprase": "咦",
+        "name": "簡培菈"
+    },
+    "papi": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "馬",
+        "birthday": "1月10日",
+        "catchprase": "聽說是",
+        "name": "小岡"
+    },
+    "elmer": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "馬",
+        "birthday": "10月5日",
+        "catchprase": "酥酥",
+        "name": "酥餅"
+    },
+    "carrie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "袋鼠",
+        "birthday": "12月5日",
+        "catchprase": "親親",
+        "name": "媽咪"
+    },
+    "melba": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "無尾熊",
+        "birthday": "4月12日",
+        "catchprase": "不得了",
+        "name": "阿得"
+    },
+    "peaches": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "馬",
+        "birthday": "11月28日",
+        "catchprase": "蹦",
+        "name": "小薰"
+    },
+    "lyman": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "無尾熊",
+        "birthday": "10月12日",
+        "catchprase": "哇。",
+        "name": "敖志明"
+    },
+    "julian": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "馬",
+        "birthday": "3月15日",
+        "catchprase": "喂！你",
+        "name": "朱黎"
+    },
+    "roscoe": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "馬",
+        "birthday": "6月16日",
+        "catchprase": "",
+        "name": "黑馬"
+    },
+    "astrid": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "袋鼠",
+        "birthday": "9月8日",
+        "catchprase": "龐克",
+        "name": "童兒"
+    },
+    "sydney": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "無尾熊",
+        "birthday": "6月21日",
+        "catchprase": "無尾熊。",
+        "name": "思穎"
+    },
+    "annalise": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "馬",
+        "birthday": "12月2日",
+        "catchprase": "",
+        "name": "舒芙蕾"
+    },
+    "eugene": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "無尾熊",
+        "birthday": "10月26日",
+        "catchprase": "喂喂",
+        "name": "羅奇"
+    },
+    "reneigh": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "馬",
+        "birthday": "6月4日",
+        "catchprase": "哼",
+        "name": "雷哈娜"
+    },
+    "winnie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "馬",
+        "birthday": "1月31日",
+        "catchprase": "嘶嘶",
+        "name": "馬星星"
+    },
+    "sylvia": {
+        "sex": "female",
+        "personality": "成熟、大姐姐",
+        "specie": "袋鼠",
+        "birthday": "5月3日",
+        "catchprase": "對耶",
+        "name": "希薇亞"
+    },
+    "gonzo": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "無尾熊",
+        "birthday": "10月13日",
+        "catchprase": "錢錢",
+        "name": "鋼鎖"
+    },
+    "clyde": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "馬",
+        "birthday": "5月1日",
+        "catchprase": "吹卷卷",
+        "name": "笛笛"
+    },
+    "victoria": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "馬",
+        "birthday": "7月11日",
+        "catchprase": "走哦",
+        "name": "聖蘿"
+    },
+    "kitt": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "袋鼠",
+        "birthday": "10月11日",
+        "catchprase": "補補",
+        "name": "縫縫"
+    },
+    "yuka": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "無尾熊",
+        "birthday": "7月20日",
+        "catchprase": "啊啦",
+        "name": "尤嘉莉"
+    },
+    "ed": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "馬",
+        "birthday": "9月16日",
+        "catchprase": "",
+        "name": "馬譽"
+    },
+    "walt": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "袋鼠",
+        "birthday": "4月24日",
+        "catchprase": "別裝了",
+        "name": "袋鋼"
+    },
+    "samson": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老鼠",
+        "birthday": "7月5日",
+        "catchprase": "吱",
+        "name": "和平"
+    },
+    "monty": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "猴子",
+        "birthday": "12月7日",
+        "catchprase": "香蕉",
+        "name": "皮猴"
+    },
+    "elvis": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "獅子",
+        "birthday": "7月23日",
+        "catchprase": "聽懂吧",
+        "name": "皇獅"
+    },
+    "broccolo": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "老鼠",
+        "birthday": "6月30日",
+        "catchprase": "微微",
+        "name": "茜藍"
+    },
+    "dora": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "老鼠",
+        "birthday": "2月18日",
+        "catchprase": "美吧",
+        "name": "杜美"
+    },
+    "lionel": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "獅子",
+        "birthday": "7月29日",
+        "catchprase": "正確",
+        "name": "賴恩睿"
+    },
+    "rooney": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "袋鼠",
+        "birthday": "12月1日",
+        "catchprase": "做就對了",
+        "name": "麥克"
+    },
+    "rod": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老鼠",
+        "birthday": "8月14日",
+        "catchprase": "厲害",
+        "name": "阿將"
+    },
+    "elise": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "猴子",
+        "birthday": "3月21日",
+        "catchprase": "孟孟",
+        "name": "孟琪"
+    },
+    "rex": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "獅子",
+        "birthday": "7月24日",
+        "catchprase": "獅獅",
+        "name": "晴天"
+    },
+    "moose": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老鼠",
+        "birthday": "9月13日",
+        "catchprase": "可惡",
+        "name": "阿聘"
+    },
+    "limberg": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鼠",
+        "birthday": "10月17日",
+        "catchprase": "非也",
+        "name": "韭菜"
+    },
+    "nana": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "猴子",
+        "birthday": "8月23日",
+        "catchprase": "唔唔",
+        "name": "七七"
+    },
+    "marcie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "袋鼠",
+        "birthday": "5月31日",
+        "catchprase": "好唷",
+        "name": "瑪莉亞"
+    },
+    "candi": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老鼠",
+        "birthday": "4月13日",
+        "catchprase": "滑滑",
+        "name": "甘油"
+    },
+    "flip": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "猴子",
+        "birthday": "11月21日",
+        "catchprase": "差不多",
+        "name": "天佑"
+    },
+    "leopold": {
+        "sex": "male",
+        "personality": "運動、自戀",
+        "specie": "獅子",
+        "birthday": "8月14日",
+        "catchprase": "上課了",
+        "name": "老獅"
+    },
+    "bettina": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "老鼠",
+        "birthday": "6月12日",
+        "catchprase": "就說吧",
+        "name": "丸子"
+    },
+    "bella": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老鼠",
+        "birthday": "12月28日",
+        "catchprase": "嘎哈",
+        "name": "貝拉"
+    },
+    "simon": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "猴子",
+        "birthday": "1月19日",
+        "catchprase": "猿猿",
+        "name": "遠仁"
+    },
+    "rizzo": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鼠",
+        "birthday": "1月17日",
+        "catchprase": "",
+        "name": "悄俊"
+    },
+    "shari": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "猴子",
+        "birthday": "4月10日",
+        "catchprase": "嗚吱吱",
+        "name": "雪莉"
+    },
+    "mott": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "獅子",
+        "birthday": "7月10日",
+        "catchprase": "哈哈哈",
+        "name": "李克"
+    },
+    "bree": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "老鼠",
+        "birthday": "7月7日",
+        "catchprase": "",
+        "name": "西瓜皮"
+    },
+    "tammi": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "猴子",
+        "birthday": "4月2日",
+        "catchprase": "哇嗚",
+        "name": "四月"
+    },
+    "bud": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "獅子",
+        "birthday": "8月8日",
+        "catchprase": "男人",
+        "name": "莫敬"
+    },
+    "anicotti": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老鼠",
+        "birthday": "2月24日",
+        "catchprase": "可愛",
+        "name": "羅萱兒"
+    },
+    "deli": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "猴子",
+        "birthday": "5月24日",
+        "catchprase": "去吧",
+        "name": "德裡"
+    },
+    "rory": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "獅子",
+        "birthday": "8月7日",
+        "catchprase": "哪哈",
+        "name": "亞瑟"
+    },
+    "celia": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "老鷹",
+        "birthday": "3月25日",
+        "catchprase": "是呢",
+        "name": "蒂芬妮"
+    },
+    "phoebe": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "鴕鳥",
+        "birthday": "4月22日",
+        "catchprase": "好熱",
+        "name": "火鳥"
+    },
+    "queenie": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴕鳥",
+        "birthday": "11月13日",
+        "catchprase": "果然",
+        "name": "果果"
+    },
+    "avery": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鷹",
+        "birthday": "2月22日",
+        "catchprase": "溜溜",
+        "name": "安谷斯"
+    },
+    "cranston": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "鴕鳥",
+        "birthday": "9月23日",
+        "catchprase": "哎呀呀",
+        "name": "朱祿"
+    },
+    "chadder": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "老鼠",
+        "birthday": "12月15日",
+        "catchprase": "",
+        "name": "起司"
+    },
+    "aurora": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "企鵝",
+        "birthday": "1月27日",
+        "catchprase": "若",
+        "name": "歐若拉"
+    },
+    "apollo": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鷹",
+        "birthday": "7月4日",
+        "catchprase": "唔咿",
+        "name": "阿波羅"
+    },
+    "gladys": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鴕鳥",
+        "birthday": "1月15日",
+        "catchprase": "千歲",
+        "name": "仙仙"
+    },
+    "frank": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鷹",
+        "birthday": "7月30日",
+        "catchprase": "多謝",
+        "name": "浩克"
+    },
+    "phil": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "鴕鳥",
+        "birthday": "11月27日",
+        "catchprase": "轟隆隆",
+        "name": "凱恩"
+    },
+    "octavian": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "章魚",
+        "birthday": "9月20日",
+        "catchprase": "章魚",
+        "name": "張瑜"
+    },
+    "roald": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "企鵝",
+        "birthday": "1月5日",
+        "catchprase": "企鵝",
+        "name": "企鵝達"
+    },
+    "amelia": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "老鷹",
+        "birthday": "11月19日",
+        "catchprase": "卡拉卡拉",
+        "name": "安地斯"
+    },
+    "sandy": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "鴕鳥",
+        "birthday": "10月21日",
+        "catchprase": "鴕鳥",
+        "name": "小嵐"
+    },
+    "sterling": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老鷹",
+        "birthday": "12月11日",
+        "catchprase": "呀啊",
+        "name": "銀閣"
+    },
+    "blanche": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴕鳥",
+        "birthday": "12月21日",
+        "catchprase": "是嘛",
+        "name": "小偲"
+    },
+    "marina": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "章魚",
+        "birthday": "6月26日",
+        "catchprase": "■",
+        "name": "章立娜"
+    },
+    "cube": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "企鵝",
+        "birthday": "1月29日",
+        "catchprase": "十字",
+        "name": "羅斯"
+    },
+    "pierce": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老鷹",
+        "birthday": "1月8日",
+        "catchprase": "啪沙啪沙",
+        "name": "謝博強"
+    },
+    "sprocket": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "鴕鳥",
+        "birthday": "12月1日",
+        "catchprase": "機械",
+        "name": "鶴茲"
+    },
+    "greta": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "老鼠",
+        "birthday": "9月5日",
+        "catchprase": "",
+        "name": "如意"
+    },
+    "keaton": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "老鷹",
+        "birthday": "6月1日",
+        "catchprase": "是",
+        "name": "法蘭克"
+    },
+    "flora": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "鴕鳥",
+        "birthday": "2月9日",
+        "catchprase": "紅鶴",
+        "name": "胡拉拉"
+    },
+    "zucker": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "章魚",
+        "birthday": "3月8日",
+        "catchprase": "認同",
+        "name": "章丸丸"
+    },
+    "hopper": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "企鵝",
+        "birthday": "4月6日",
+        "catchprase": "“禪”",
+        "name": "達滿"
+    },
+    "buzz": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老鷹",
+        "birthday": "12月7日",
+        "catchprase": "繼繼",
+        "name": "繼光"
+    },
+    "julia": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "鴕鳥",
+        "birthday": "7月31日",
+        "catchprase": "吼唷",
+        "name": "朱莉亞"
+    },
+    "penelope": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老鼠",
+        "birthday": "2月5日",
+        "catchprase": "啾啾",
+        "name": "小啾"
+    },
+    "kevin": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "豬",
+        "birthday": "4月26日",
+        "catchprase": "比利比利",
+        "name": "伊比利"
+    },
+    "curly": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "豬",
+        "birthday": "7月26日",
+        "catchprase": "感謝",
+        "name": "勝利"
+    },
+    "friga": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "企鵝",
+        "birthday": "10月16日",
+        "catchprase": "滑溜溜",
+        "name": "謝賓娜"
+    },
+    "coco": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "兔子",
+        "birthday": "3月1日",
+        "catchprase": "土俑",
+        "name": "仰韶"
+    },
+    "maggie": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "豬",
+        "birthday": "9月3日",
+        "catchprase": "嗯",
+        "name": "瑪格"
+    },
+    "crackle": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "豬",
+        "birthday": "9月3日",
+        "catchprase": "噗",
+        "name": "肉肉"
+    },
+    "iggly": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "企鵝",
+        "birthday": "11月2日",
+        "catchprase": "卷卷",
+        "name": "花壽司"
+    },
+    "pancetti": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "豬",
+        "birthday": "11月14日",
+        "catchprase": "討厭啦~",
+        "name": "布蘭妮"
+    },
+    "truffles": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "豬",
+        "birthday": "7月28日",
+        "catchprase": "哇塞",
+        "name": "嘟嘟"
+    },
+    "gwen": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "企鵝",
+        "birthday": "1月23日",
+        "catchprase": "唔呼呼",
+        "name": "寶拉"
+    },
+    "snake": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "兔子",
+        "birthday": "11月3日",
+        "catchprase": "忍忍",
+        "name": "百川"
+    },
+    "peggy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "豬",
+        "birthday": "5月23日",
+        "catchprase": "彈彈",
+        "name": "千惠"
+    },
+    "cobb": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "豬",
+        "birthday": "10月7日",
+        "catchprase": "公畝",
+        "name": "博士"
+    },
+    "tex": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "企鵝",
+        "birthday": "10月6日",
+        "catchprase": "寶寶",
+        "name": "伏特"
+    },
+    "agnes": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "豬",
+        "birthday": "4月21日",
+        "catchprase": "噗呼呼",
+        "name": "古乃欣"
+    },
+    "rasher": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "豬",
+        "birthday": "4月7日",
+        "catchprase": "萬年",
+        "name": "古烈"
+    },
+    "puck": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "企鵝",
+        "birthday": "2月21日",
+        "catchprase": "候補",
+        "name": "哈奇"
+    },
+    "gala": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "豬",
+        "birthday": "3月5日",
+        "catchprase": "當啷",
+        "name": "小芽"
+    },
+    "boris": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "豬",
+        "birthday": "11月6日",
+        "catchprase": "",
+        "name": "達利"
+    },
+    "flo": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "企鵝",
+        "birthday": "9月2日",
+        "catchprase": "這樣唷",
+        "name": "蕾拉"
+    },
+    "bunnie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "5月9日",
+        "catchprase": "好像喔",
+        "name": "莉莉安"
+    },
+    "hugh": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "豬",
+        "birthday": "12月30日",
+        "catchprase": "懶懶",
+        "name": "阿豬"
+    },
+    "wade": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "企鵝",
+        "birthday": "10月30日",
+        "catchprase": "所以啦",
+        "name": "竹輪"
+    },
+    "chops": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "豬",
+        "birthday": "10月13日",
+        "catchprase": "",
+        "name": "豚皇"
+    },
+    "sprinkle": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "企鵝",
+        "birthday": "2月20日",
+        "catchprase": "涼爽",
+        "name": "冰莎"
+    },
+    "dotty": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "3月14日",
+        "catchprase": "啷",
+        "name": "瑪莎"
+    },
+    "lucy": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "豬",
+        "birthday": "6月2日",
+        "catchprase": "唷",
+        "name": "露西"
+    },
+    "boomer": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "企鵝",
+        "birthday": "2月7日",
+        "catchprase": "軋軋",
+        "name": "秀益"
+    },
+    "eunice": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "綿羊",
+        "birthday": "4月3日",
+        "catchprase": "咩",
+        "name": "毛海兒"
+    },
+    "toby": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "兔子",
+        "birthday": "7月10日",
+        "catchprase": "",
+        "name": "咚比"
+    },
+    "claude": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "兔子",
+        "birthday": "12月3日",
+        "catchprase": "酸酸",
+        "name": "阿醋"
+    },
+    "merengue": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "犀牛",
+        "birthday": "3月19日",
+        "catchprase": "糖糖",
+        "name": "草莓"
+    },
+    "carmen": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "1月6日",
+        "catchprase": "真的",
+        "name": "巧蔻"
+    },
+    "tiffany": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "兔子",
+        "birthday": "1月9日",
+        "catchprase": "我說呀",
+        "name": "大姐頭"
+    },
+    "stella": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "綿羊",
+        "birthday": "4月9日",
+        "catchprase": "羊毛",
+        "name": "氈氈"
+    },
+    "tank": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "犀牛",
+        "birthday": "5月6日",
+        "catchprase": "犀犀",
+        "name": "阿足"
+    },
+    "francine": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "兔子",
+        "birthday": "1月22日",
+        "catchprase": "嚕啦啦",
+        "name": "法藍琪"
+    },
+    "renée": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "犀牛",
+        "birthday": "5月28日",
+        "catchprase": "超強",
+        "name": "柴姐"
+    },
+    "bonbon": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "3月3日",
+        "catchprase": "不妙",
+        "name": "妙妙"
+    },
+    "genji": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "兔子",
+        "birthday": "1月21日",
+        "catchprase": "臣",
+        "name": "儒林"
+    },
+    "rhonda": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "犀牛",
+        "birthday": "1月24日",
+        "catchprase": "嗯噗",
+        "name": "夢夢"
+    },
+    "chrissy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "8月28日",
+        "catchprase": "哩啦啦",
+        "name": "克莉琪"
+    },
+    "gaston": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "兔子",
+        "birthday": "10月28日",
+        "catchprase": "唔賀",
+        "name": "猛兔"
+    },
+    "vesta": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "綿羊",
+        "birthday": "4月16日",
+        "catchprase": "就這樣呀",
+        "name": "綿綿"
+    },
+    "cole": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "兔子",
+        "birthday": "8月10日",
+        "catchprase": "就是如此",
+        "name": "阿甘"
+    },
+    "ruby": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "12月25日",
+        "catchprase": "普通",
+        "name": "月兔"
+    },
+    "spike": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "犀牛",
+        "birthday": "6月17日",
+        "catchprase": "混混",
+        "name": "阿蹲"
+    },
+    "hopkins": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "兔子",
+        "birthday": "3月11日",
+        "catchprase": "風",
+        "name": "風傑"
+    },
+    "gabi": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "12月16日",
+        "catchprase": "琪他",
+        "name": "珮琪"
+    },
+    "baabara": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "綿羊",
+        "birthday": "3月28日",
+        "catchprase": "",
+        "name": "華爾滋"
+    },
+    "mira": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "兔子",
+        "birthday": "7月6日",
+        "catchprase": "月球",
+        "name": "蜜拉"
+    },
+    "doc": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "兔子",
+        "birthday": "3月16日",
+        "catchprase": "是啦",
+        "name": "阿飛"
+    },
+    "hornsby": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "犀牛",
+        "birthday": "3月20日",
+        "catchprase": "念念",
+        "name": "光雄"
+    },
+    "o'hare": {
+        "sex": "male",
+        "personality": "暴躁、自戀",
+        "specie": "兔子",
+        "birthday": "7月24日",
+        "catchprase": "朋友",
+        "name": "桑托斯"
+    },
+    "pippy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "兔子",
+        "birthday": "6月14日",
+        "catchprase": "就這樣啦",
+        "name": "羅塔"
+    },
+    "cally": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "松鼠",
+        "birthday": "9月4日",
+        "catchprase": "啦啦",
+        "name": "小芹"
+    },
+    "filbert": {
+        "sex": "male",
+        "personality": "悠閑",
+        "specie": "松鼠",
+        "birthday": "6月3日",
+        "catchprase": "是哦",
+        "name": "瑞奇"
+    },
+    "wendy": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "綿羊",
+        "birthday": "8月15日",
+        "catchprase": "一絲絲",
+        "name": "雪花"
+    },
+    "marshal": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "松鼠",
+        "birthday": "9月29日",
+        "catchprase": "不管怎樣",
+        "name": "小潤"
+    },
+    "sally": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "松鼠",
+        "birthday": "6月19日",
+        "catchprase": "要是",
+        "name": "拉拉米"
+    },
+    "étoile": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "綿羊",
+        "birthday": "12月25日",
+        "catchprase": "",
+        "name": "彩星"
+    },
+    "tasha": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "松鼠",
+        "birthday": "11月30日",
+        "catchprase": "做得好",
+        "name": "娜塔麗"
+    },
+    "pecan": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "松鼠",
+        "birthday": "9月10日",
+        "catchprase": "正經",
+        "name": "雷貝嘉"
+    },
+    "timbra": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "綿羊",
+        "birthday": "10月21日",
+        "catchprase": "",
+        "name": "阿司"
+    },
+    "static": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "松鼠",
+        "birthday": "7月9日",
+        "catchprase": "閃閃",
+        "name": "閃電"
+    },
+    "dom": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "綿羊",
+        "birthday": "3月18日",
+        "catchprase": "哇耶",
+        "name": "茶茶丸"
+    },
+    "cashmere": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "綿羊",
+        "birthday": "4月2日",
+        "catchprase": "",
+        "name": "愛睦"
+    },
+    "sylvana": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "松鼠",
+        "birthday": "10月22日",
+        "catchprase": "咻",
+        "name": "孟珮"
+    },
+    "nibbles": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "松鼠",
+        "birthday": "7月19日",
+        "catchprase": "咯吱咯吱",
+        "name": "咬咬"
+    },
+    "frita": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "綿羊",
+        "birthday": "7月16日",
+        "catchprase": "薯薯",
+        "name": "溫蒂"
+    },
+    "mint": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "松鼠",
+        "birthday": "5月2日",
+        "catchprase": "喔哼",
+        "name": "小敏"
+    },
+    "peanut": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "松鼠",
+        "birthday": "6月8日",
+        "catchprase": "就是唷",
+        "name": "小桃"
+    },
+    "willow": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "綿羊",
+        "birthday": "11月26日",
+        "catchprase": "",
+        "name": "梅麗諾"
+    },
+    "poppy": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "松鼠",
+        "birthday": "8月5日",
+        "catchprase": "甜甜",
+        "name": "軟糖"
+    },
+    "agents": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "松鼠",
+        "birthday": "3月2日",
+        "catchprase": "嘿唷",
+        "name": "阿二"
+    },
+    "muffy": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "綿羊",
+        "birthday": "2月14日",
+        "catchprase": "辛苦了",
+        "name": "彭澎"
+    },
+    "ricky": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "松鼠",
+        "birthday": "9月14日",
+        "catchprase": "炯炯",
+        "name": "嘉治"
+    },
+    "blaire": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "松鼠",
+        "birthday": "7月3日",
+        "catchprase": "哼哼",
+        "name": "小影"
+    },
+    "curlos": {
+        "sex": "male",
+        "personality": "暴躁、自戀",
+        "specie": "綿羊",
+        "birthday": "5月8日",
+        "catchprase": "北鼻",
+        "name": "賈洛斯"
+    },
+    "sheldon": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "松鼠",
+        "birthday": "2月26日",
+        "catchprase": "鼓慄鼓慄",
+        "name": "克慄斯"
+    },
+    "caroline": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "松鼠",
+        "birthday": "7月15日",
+        "catchprase": "你",
+        "name": "賈蘿琳"
+    },
+    "pietro": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "綿羊",
+        "birthday": "4月19日",
+        "catchprase": "醜醜",
+        "name": "皮耶羅"
+    },
+    "tybalt": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老虎",
+        "birthday": "8月19日",
+        "catchprase": "虎虎",
+        "name": "谷豐"
+    },
+    "kyle": {
+        "sex": "male",
+        "personality": "自戀",
+        "specie": "狼",
+        "birthday": "12月6日",
+        "catchprase": "喔耶",
+        "name": "李可"
+    },
+    "chief": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "狼",
+        "birthday": "12月19日",
+        "catchprase": "不是嘛",
+        "name": "施傅"
+    },
+    "freya": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "狼",
+        "birthday": "12月14日",
+        "catchprase": "就是說哇",
+        "name": "冰冰"
+    },
+    "bangle": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老虎",
+        "birthday": "8月27日",
+        "catchprase": "是喔",
+        "name": "盧姿"
+    },
+    "audie": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "狼",
+        "birthday": "8月31日",
+        "catchprase": "呀哈",
+        "name": "莫妮卡"
+    },
+    "lobo": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "狼",
+        "birthday": "11月5日",
+        "catchprase": "不然呢",
+        "name": "潘奇隆"
+    },
+    "hazel": {
+        "sex": "female",
+        "personality": "大姐姐",
+        "specie": "松鼠",
+        "birthday": "8月30日",
+        "catchprase": "當然哦",
+        "name": "艾慄絲"
+    },
+    "fang": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "狼",
+        "birthday": "12月18日",
+        "catchprase": "這倒是",
+        "name": "史培亞"
+    },
+    "leonardo": {
+        "sex": "male",
+        "personality": "運動",
+        "specie": "老虎",
+        "birthday": "5月15日",
+        "catchprase": "但是",
+        "name": "阿彪"
+    },
+    "wolfgang": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "狼",
+        "birthday": "11月25日",
+        "catchprase": "囉囉",
+        "name": "羅博"
+    },
+    "rolf": {
+        "sex": "male",
+        "personality": "暴躁",
+        "specie": "老虎",
+        "birthday": "8月22日",
+        "catchprase": "王",
+        "name": "朱穆朗"
+    },
+    "vivian": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "狼",
+        "birthday": "1月26日",
+        "catchprase": "喔呵呵",
+        "name": "范妮沙"
+    },
+    "claudia": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "老虎",
+        "birthday": "11月22日",
+        "catchprase": "啊哈",
+        "name": "馬麗蓮"
+    },
+    "whitney": {
+        "sex": "female",
+        "personality": "成熟",
+        "specie": "狼",
+        "birthday": "9月17日",
+        "catchprase": "漂亮",
+        "name": "畢安卡"
+    },
+    "rowan": {
+        "sex": "male",
+        "personality": "暴躁、運動",
+        "specie": "老虎",
+        "birthday": "8月26日",
+        "catchprase": "完全",
+        "name": "戈麥斯"
+    },
+    "skye": {
+        "sex": "female",
+        "personality": "普通",
+        "specie": "狼",
+        "birthday": "3月24日",
+        "catchprase": "花花",
+        "name": "百合"
+    },
+    "bianca": {
+        "sex": "female",
+        "personality": "元氣",
+        "specie": "老虎",
+        "birthday": "12月13日",
+        "catchprase": "雪豹",
+        "name": "小雪"
+    },
+    "dobie": {
+        "sex": "male",
+        "personality": "悠閑、暴躁",
+        "specie": "狼",
+        "birthday": "2月17日",
+        "catchprase": "咳呵",
+        "name": "阿研"
+    }
+}

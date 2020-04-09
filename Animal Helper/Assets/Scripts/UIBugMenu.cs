@@ -43,7 +43,7 @@ public class UIBugMenu : UIDexMenu
 
         foreach (KeyValuePair<string, ACBugData> fishData in Dex.bug)
         {
-            int[] monthsData = Main.Instance.GeoMode == GeographyMode.NORTH ? fishData.Value.monthsNorth : fishData.Value.monthsSouth;
+            int[] monthsData = MainCollect.Instance.GeoMode == GeographyMode.NORTH ? fishData.Value.monthsNorth : fishData.Value.monthsSouth;
 
             if (monthsData[index] == 1)
             {

@@ -5,7 +5,7 @@ using UnityEngine;
 public abstract class UIDexMenu : MonoBehaviour
 {
 
-    protected ACDex Dex { get { return Main.Instance.dex; } }
+    protected ACDex Dex { get { return DataManager.Instance.Dex; } }
     public Transform rootTransform;
     public GameObject itemPrefab;
     public Dictionary<string, UIDexItem> items = new Dictionary<string, UIDexItem>();

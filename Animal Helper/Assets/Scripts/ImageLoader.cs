@@ -27,6 +27,11 @@ public class ImageLoader
     {
         images = new Dictionary<string, Sprite>();
 
+        LoadAllImages();
+    }
+
+    public void LoadAllImages()
+    {
         Sprite[] sprites = Resources.LoadAll<Sprite>("Icon");
         foreach (Sprite sprite in sprites)
         {
@@ -34,6 +39,12 @@ public class ImageLoader
             images[sprite.name] = sprite;
         }
     }
+
+    public void LoadImagesFromPath(string path)
+    {
+
+    }
+
 
     public bool TryGetImage(string key, out Sprite sprite)
     {

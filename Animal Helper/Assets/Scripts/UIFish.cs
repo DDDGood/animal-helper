@@ -27,7 +27,7 @@ public class UIFish : UIDexItem
             icon.sprite = sprite;
         }
 
-        ChangeGeoMode(Main.Instance.GeoMode);
+        ChangeGeoMode(MainCollect.Instance.GeoMode);
     }
 
 
